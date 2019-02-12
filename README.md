@@ -1,3 +1,3 @@
-# Multivariate-cryptography-
+# Multivariate Cryptography
 
-Undergraduate research project investigating the current state of the art of multivariate cryptography and the algebraic teqniques used in crypanalysis. 
+Undergraduate research project investigating the current state of the art of multivariate cryptography and the algebraic techniques used in cryptanalysis. 
